@@ -140,7 +140,7 @@ Freedom服务器可以提供更多的数据传输，具体取决于当前的乘�
 <h3>在just_my_socks网站，参考下图下载对应操作系统的客户端</h3>
 <img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/dccn.jpg" alt="SS客户端下载，若图片无法显示请点击查看" />
 <img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/dcen.jpg" alt="SS client download，若图片无法显示请点击查看" />
-<p class="keepp"><strong>注意：如果购买后试用不满意，可申请退款：</strong><a href="jmstk.md"  rel="nofollow">Just My Socks 怎么退款（退款条件）</a></p>
+<p class="keepp"><strong>注意：如果购买后试用不满意，可申请退款：</strong><a href="https://ssr.juchangs.com/96.html"  rel="nofollow">Just My Socks 怎么退款（退款条件）</a></p>
 <p class="keepp"><strong>反馈交流：</strong><a href="https://ssr.juchangs.com/"  rel="nofollow">如果有任何问题，欢迎大家交流！</a></p>
 <p class="keepp"><strong>软件下载：</strong><a href="https://wws.lanzous.com/irKQJjyo3gb"  rel="nofollow">Shadowsoc安卓-苹果-windos.zip</a></p>
 <p class="keepp"><strong>免责声明：</strong>我们推荐的任何产品和服务已努力确保可靠持久，但我们不为此承担任何责任。本库一切资源仅用作交流学习，请勿用作商业或违法行为！如造成任何后果，本库概不负责！</p>
